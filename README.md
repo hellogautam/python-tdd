@@ -1,3 +1,3 @@
 # python-tdd
 
-# Test Driven Developement
+# Test Driven Development
