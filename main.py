@@ -9,8 +9,8 @@ __license__ = "MIT"
 
 
 def main():
-    """ Main entry point of the app """
-    print("hello world")
+    # Main entry point of the app
+    print("what's popping? i am a string calculator.")
 
 #Function to get the number list from the string
 def get_number_list(input):
